@@ -1,0 +1,8 @@
+Welcome to JSJK Airline Comapany
+Departure Flight: Singapore - KL
+Departure Date: 26/05/2025
+Departure Slot: 18.00P.M.
+Return Flight: Penang - KL
+Return Date: 04/05/2025
+Return Slot: 13.00P.PM
+
